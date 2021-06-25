@@ -15,3 +15,10 @@ In this project I plan to use rental data from zillow, along with income data fr
 
 # Author
 Pranav Viswanathan
+
+# Storyboard Link
+https://lucid.app/lucidchart/9be631b7-4072-4c85-b5ed-62a239a8b868/edit?viewport_loc=659%2C269%2C4363%2C2081%2C0_0&invitationId=inv_08710dc5-cf99-47dd-9759-efeaa4476da3 
+
+# Python Notebook Link
+https://colab.research.google.com/drive/1dHGzA42ROjDvwt7thqCJnGE6RWO20v77?usp=sharing
+
