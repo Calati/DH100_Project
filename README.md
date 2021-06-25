@@ -1,5 +1,5 @@
 # Title 
-DH100 Project - Analyzing zillow housing data across the Alameda County.
+DH100 Project - Analyzing Housing Data across Alameda County.
 
 # Description and Purpose
 
@@ -9,9 +9,8 @@ In this project I plan to use rental data from zillow, along with income data fr
 3) What are the demographic distributions in lower and higher income areas within Alameda County
 
 # Goals
-1) Represent data by location through GeoPandas to plot out affordability
+1) Represent data by location through GeoPandas to predict a trend in affordability
 2) Use WebScraping to gather data from Zillow and the Census
-
 
 
 # Author
