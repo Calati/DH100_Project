@@ -18,6 +18,8 @@ Pranav Viswanathan
 
 # Links
 
+Video Tutorial: https://drive.google.com/file/d/1WVszU7hEwkPLGjMaY06xg4jLJo8LBIdn/view?usp=sharing
+
 Python Notebook Link: https://colab.research.google.com/drive/1dHGzA42ROjDvwt7thqCJnGE6RWO20v77?usp=sharing
 
 Dataset: Must be obtained from Zillow: https://www.zillow.com/howto/api/APIOverview.htm
